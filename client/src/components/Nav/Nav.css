@@ -1,0 +1,28 @@
+.links a{
+	color: white;
+	margin-right: 20px;
+}
+
+
+
+.navbar{
+	background-image: linear-gradient(to bottom, transparent, black), url('../../images/tom-hermans-264015-unsplash (1).jpg');
+	background-repeat: no-repeat;
+    background-size: cover;
+    border:20px solid white;
+    height: 240px;
+    font-family: 'Abril Fatface', cursive;
+}
+
+.navbar h1{
+	font-family: 'Abril Fatface', cursive;	
+	color: white;
+	font-size: 68px;
+	margin-bottom: 5%;
+}
+
+.navbar h1{
+	font-family: 'Abril Fatface', cursive;	
+	color: white;
+	font-size: 68px;
+}

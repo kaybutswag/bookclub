@@ -1,0 +1,13 @@
+*{
+	font-family: 'Abril Fatface', cursive !important;
+}
+
+.btn-success{
+	background-color: #ff7f7f;
+	border:none;
+	margin-right: 30px;
+}
+
+.btn-success:active,.btn-success:hover, .btn-success:focus{
+  background-color: #a1332f !important;
+}
